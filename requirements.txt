@@ -5,3 +5,5 @@ Pillow
 numpy
 pandas
 matplotlib
+torch
+torchvision
